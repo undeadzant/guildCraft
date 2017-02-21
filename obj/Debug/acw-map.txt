@@ -1,0 +1,4 @@
+guildCraft.MainActivity, guildCraft;md533c8740a7bd3cb465605b01f314cb7c9.MainActivity
+guildCraft.MainActivity, guildCraft, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md533c8740a7bd3cb465605b01f314cb7c9.MainActivity
+guildCraft.MainActivity;md533c8740a7bd3cb465605b01f314cb7c9.MainActivity
+guildcraft.MainActivity;md533c8740a7bd3cb465605b01f314cb7c9.MainActivity

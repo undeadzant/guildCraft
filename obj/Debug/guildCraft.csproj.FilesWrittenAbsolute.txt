@@ -1,0 +1,17 @@
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/DJMattik/Projects/guildCraft/guildCraft/bin/Debug/guildCraft.dll.mdb
+/Users/DJMattik/Projects/guildCraft/guildCraft/bin/Debug/guildCraft.dll
+/Users/DJMattik/Projects/guildCraft/guildCraft/bin/Debug/com.cmps383.guildcraft.apk
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/android/bin/com.cmps383.guildcraft.apk
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/res/layout/main.xml
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/res/values/strings.xml
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/R.cs.flag
+/Users/DJMattik/Projects/guildCraft/guildCraft/bin/Debug/com.cmps383.guildcraft-Signed.apk
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/uploadflags.txt
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/guildCraft.dll
+/Users/DJMattik/Projects/guildCraft/guildCraft/obj/Debug/guildCraft.dll.mdb
